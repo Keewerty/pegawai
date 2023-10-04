@@ -25,12 +25,42 @@
           </div>
 
           <div class="mb-3">
-            <label for="exampleFormControlInput2" class="form-label">Nama kelurahan</label>
+            <label for="exampleFormControlInput2" class="form-label">Tempat lahir</label>
             <input type="text" name="nama_kelurahan" class="form-control" id="nama_kelurahan">
           </div>
 
           <div class="mb-3">
-            <label for="exampleFormControlInput2" class="form-label">id kecamatan</label>
+            <label for="exampleFormControlInput2" class="form-label">Tanggal Lahir</label>
+            <input type="text" name="nama_kecamatan" class="form-control" id="id_kecamatan">
+          </div>
+
+          <div class="mb-3">
+            <label for="exampleFormControlInput2" class="form-label">Tanggal Lahir</label>
+            <input type="text" name="nama_kecamatan" class="form-control" id="id_kecamatan">
+          </div>
+
+          <div class="mb-3">
+            <label for="exampleFormControlInput2" class="form-label">Tanggal Lahir</label>
+            <input type="text" name="nama_kecamatan" class="form-control" id="id_kecamatan">
+          </div>
+
+          <div class="mb-3">
+            <label for="exampleFormControlInput2" class="form-label">Tanggal Lahir</label>
+            <input type="text" name="nama_kecamatan" class="form-control" id="id_kecamatan">
+          </div>
+
+          <div class="mb-3">
+            <label for="exampleFormControlInput2" class="form-label">Tanggal Lahir</label>
+            <input type="text" name="nama_kecamatan" class="form-control" id="id_kecamatan">
+          </div>
+
+          <div class="mb-3">
+            <label for="exampleFormControlInput2" class="form-label">Tanggal Lahir</label>
+            <input type="text" name="nama_kecamatan" class="form-control" id="id_kecamatan">
+          </div>
+
+          <div class="mb-3">
+            <label for="exampleFormControlInput2" class="form-label">Tanggal Lahir</label>
             <input type="text" name="nama_kecamatan" class="form-control" id="id_kecamatan">
           </div>
         

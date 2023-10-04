@@ -14,9 +14,15 @@
     <thead>
         <tr>
           <th scope="col">no</th>
-          <th scope="col">Kode</th>
-          <th scope="col">Nama kelurahan</th>
-          <th scope="col">Nama kecamatan</th>
+          <th scope="col">Nama Pegawai</th>
+          <th scope="col">Tempat Lahir</th>
+          <th scope="col">Tgl. Lahir</th>
+          <th scope="col">Jenis Kelamin</th>
+          <th scope="col">Agama</th>
+          <th scope="col">Alamat</th>
+          <th scope="col">kelurahan</th>
+          <th scope="col">kecamatan</th>
+          <th scope="col">Provinsi</th>
           <th scope="col">Active</th>
           <th scope="col">Action</th>
         </tr>
